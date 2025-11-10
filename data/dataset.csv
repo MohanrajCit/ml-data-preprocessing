@@ -1,0 +1,8 @@
+age,gender,glucose,blood_pressure,smoker
+50,M,148,72,yes
+31,F,85,66,no
+47,M,183,64,yes
+33,F,89,66,no
+54,M,192,78,yes
+, F, 120,70,no
+29,F,NaN,68,no
